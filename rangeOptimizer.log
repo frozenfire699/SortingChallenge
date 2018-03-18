@@ -1,0 +1,332 @@
+2018-03-18 07:53:02 DEBUG RangeOptimizer:32 - Entering isValid() method of RangeValidator
+2018-03-18 07:53:02 DEBUG RangeOptimizer:49 - Checking for Null or Empty
+2018-03-18 07:53:02 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800,50000], [51500,53479], [45012,46934], [54012,59607], [45500,45590], [45999,47900], [44000,45000], [43012,45950]]
+2018-03-18 07:53:02 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800,50000], [51500,53479], [45012,46934], [54012,59607], [45500,45590], [45999,47900], [44000,45000], [43012,45950]]
+2018-03-18 07:53:02 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800,50000], [51500,53479], [45012,46934], [54012,59607], [45500,45590], [45999,47900], [44000,45000], [43012,45950]]
+2018-03-18 07:53:02 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800,50000], [51500,53479], [45012,46934], [54012,59607], [45500,45590], [45999,47900], [44000,45000], [43012,45950]]
+2018-03-18 07:53:02 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800,50000], [51500,53479], [45012,46934], [54012,59607], [45500,45590], [45999,47900], [44000,45000], [43012,45950]]
+2018-03-18 07:53:02 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800,50000], [51500,53479], [45012,46934], [54012,59607], [45500,45590], [45999,47900], [44000,45000], [43012,45950]]
+2018-03-18 07:53:02 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800,50000], [51500,53479], [45012,46934], [54012,59607], [45500,45590], [45999,47900], [44000,45000], [43012,45950]]
+2018-03-18 07:53:02 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800,50000], [51500,53479], [45012,46934], [54012,59607], [45500,45590], [45999,47900], [44000,45000], [43012,45950]]
+2018-03-18 07:53:02 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800,50000], [51500,53479], [45012,46934], [54012,59607], [45500,45590], [45999,47900], [44000,45000], [43012,45950]]
+2018-03-18 07:53:02 DEBUG RangeOptimizer:37 - Exiting isValid() method of RangeValidator
+2018-03-18 07:53:02 DEBUG RangeOptimizer:34 - Entering optimizeRanges() method of RangeOptimizer
+2018-03-18 07:53:02 DEBUG RangeOptimizer:99 - Pushed new lower bound in tracking list43012
+2018-03-18 07:53:02 DEBUG RangeOptimizer:102 - Pushed new upper bound in tracking list45950
+2018-03-18 07:53:02 DEBUG RangeOptimizer:52 - Processing range:[44000,45000]
+2018-03-18 07:53:02 DEBUG RangeOptimizer:52 - Processing range:[45012,46934]
+2018-03-18 07:53:02 DEBUG RangeOptimizer:63 - Pushed new upper bound in tracking list46934
+2018-03-18 07:53:02 DEBUG RangeOptimizer:52 - Processing range:[45500,45590]
+2018-03-18 07:53:02 DEBUG RangeOptimizer:52 - Processing range:[45999,47900]
+2018-03-18 07:53:02 DEBUG RangeOptimizer:63 - Pushed new upper bound in tracking list47900
+2018-03-18 07:53:02 DEBUG RangeOptimizer:52 - Processing range:[49679,52015]
+2018-03-18 07:53:02 DEBUG RangeOptimizer:99 - Pushed new lower bound in tracking list49679
+2018-03-18 07:53:02 DEBUG RangeOptimizer:102 - Pushed new upper bound in tracking list52015
+2018-03-18 07:53:02 DEBUG RangeOptimizer:52 - Processing range:[49800,50000]
+2018-03-18 07:53:02 DEBUG RangeOptimizer:52 - Processing range:[51500,53479]
+2018-03-18 07:53:02 DEBUG RangeOptimizer:63 - Pushed new upper bound in tracking list53479
+2018-03-18 07:53:02 DEBUG RangeOptimizer:52 - Processing range:[54012,59607]
+2018-03-18 07:53:02 DEBUG RangeOptimizer:99 - Pushed new lower bound in tracking list54012
+2018-03-18 07:53:02 DEBUG RangeOptimizer:102 - Pushed new upper bound in tracking list59607
+2018-03-18 07:53:02 DEBUG RangeOptimizer:80 - Processing final set of range inside tracking list
+2018-03-18 07:53:02 DEBUG RangeOptimizer:84 - Exiting optimizeRanges() method of RangeOptimizer
+2018-03-18 07:53:07 DEBUG RangeOptimizer:32 - Entering isValid() method of RangeValidator
+2018-03-18 07:53:07 DEBUG RangeOptimizer:49 - Checking for Null or Empty
+2018-03-18 07:53:07 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800,50000], [51500,53479], [45012,46934], [54012,59607], [45500,45590], [45999,47900], [44000,45000], [43012,45950]]
+2018-03-18 07:53:07 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800,50000], [51500,53479], [45012,46934], [54012,59607], [45500,45590], [45999,47900], [44000,45000], [43012,45950]]
+2018-03-18 07:53:07 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800,50000], [51500,53479], [45012,46934], [54012,59607], [45500,45590], [45999,47900], [44000,45000], [43012,45950]]
+2018-03-18 07:53:07 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800,50000], [51500,53479], [45012,46934], [54012,59607], [45500,45590], [45999,47900], [44000,45000], [43012,45950]]
+2018-03-18 07:53:07 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800,50000], [51500,53479], [45012,46934], [54012,59607], [45500,45590], [45999,47900], [44000,45000], [43012,45950]]
+2018-03-18 07:53:07 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800,50000], [51500,53479], [45012,46934], [54012,59607], [45500,45590], [45999,47900], [44000,45000], [43012,45950]]
+2018-03-18 07:53:07 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800,50000], [51500,53479], [45012,46934], [54012,59607], [45500,45590], [45999,47900], [44000,45000], [43012,45950]]
+2018-03-18 07:53:07 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800,50000], [51500,53479], [45012,46934], [54012,59607], [45500,45590], [45999,47900], [44000,45000], [43012,45950]]
+2018-03-18 07:53:07 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800,50000], [51500,53479], [45012,46934], [54012,59607], [45500,45590], [45999,47900], [44000,45000], [43012,45950]]
+2018-03-18 07:53:07 DEBUG RangeOptimizer:37 - Exiting isValid() method of RangeValidator
+2018-03-18 07:53:07 DEBUG RangeOptimizer:34 - Entering optimizeRanges() method of RangeOptimizer
+2018-03-18 07:53:07 DEBUG RangeOptimizer:99 - Pushed new lower bound in tracking list43012
+2018-03-18 07:53:07 DEBUG RangeOptimizer:102 - Pushed new upper bound in tracking list45950
+2018-03-18 07:53:07 DEBUG RangeOptimizer:52 - Processing range:[44000,45000]
+2018-03-18 07:53:07 DEBUG RangeOptimizer:52 - Processing range:[45012,46934]
+2018-03-18 07:53:07 DEBUG RangeOptimizer:63 - Pushed new upper bound in tracking list46934
+2018-03-18 07:53:07 DEBUG RangeOptimizer:52 - Processing range:[45500,45590]
+2018-03-18 07:53:07 DEBUG RangeOptimizer:52 - Processing range:[45999,47900]
+2018-03-18 07:53:07 DEBUG RangeOptimizer:63 - Pushed new upper bound in tracking list47900
+2018-03-18 07:53:07 DEBUG RangeOptimizer:52 - Processing range:[49679,52015]
+2018-03-18 07:53:07 DEBUG RangeOptimizer:99 - Pushed new lower bound in tracking list49679
+2018-03-18 07:53:07 DEBUG RangeOptimizer:102 - Pushed new upper bound in tracking list52015
+2018-03-18 07:53:07 DEBUG RangeOptimizer:52 - Processing range:[49800,50000]
+2018-03-18 07:53:07 DEBUG RangeOptimizer:52 - Processing range:[51500,53479]
+2018-03-18 07:53:07 DEBUG RangeOptimizer:63 - Pushed new upper bound in tracking list53479
+2018-03-18 07:53:07 DEBUG RangeOptimizer:52 - Processing range:[54012,59607]
+2018-03-18 07:53:07 DEBUG RangeOptimizer:99 - Pushed new lower bound in tracking list54012
+2018-03-18 07:53:07 DEBUG RangeOptimizer:102 - Pushed new upper bound in tracking list59607
+2018-03-18 07:53:07 DEBUG RangeOptimizer:80 - Processing final set of range inside tracking list
+2018-03-18 07:53:07 DEBUG RangeOptimizer:84 - Exiting optimizeRanges() method of RangeOptimizer
+2018-03-18 07:53:11 DEBUG RangeOptimizer:32 - Entering isValid() method of RangeValidator
+2018-03-18 07:53:11 DEBUG RangeOptimizer:49 - Checking for Null or Empty
+2018-03-18 07:53:11 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800,50000], [51500,53479], [45012,46934], [54012,59607], [45500,45590], [45999,47900], [44000,45000], [43012,45950]]
+2018-03-18 07:53:11 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800,50000], [51500,53479], [45012,46934], [54012,59607], [45500,45590], [45999,47900], [44000,45000], [43012,45950]]
+2018-03-18 07:53:11 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800,50000], [51500,53479], [45012,46934], [54012,59607], [45500,45590], [45999,47900], [44000,45000], [43012,45950]]
+2018-03-18 07:53:11 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800,50000], [51500,53479], [45012,46934], [54012,59607], [45500,45590], [45999,47900], [44000,45000], [43012,45950]]
+2018-03-18 07:53:11 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800,50000], [51500,53479], [45012,46934], [54012,59607], [45500,45590], [45999,47900], [44000,45000], [43012,45950]]
+2018-03-18 07:53:11 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800,50000], [51500,53479], [45012,46934], [54012,59607], [45500,45590], [45999,47900], [44000,45000], [43012,45950]]
+2018-03-18 07:53:11 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800,50000], [51500,53479], [45012,46934], [54012,59607], [45500,45590], [45999,47900], [44000,45000], [43012,45950]]
+2018-03-18 07:53:11 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800,50000], [51500,53479], [45012,46934], [54012,59607], [45500,45590], [45999,47900], [44000,45000], [43012,45950]]
+2018-03-18 07:53:11 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800,50000], [51500,53479], [45012,46934], [54012,59607], [45500,45590], [45999,47900], [44000,45000], [43012,45950]]
+2018-03-18 07:53:11 DEBUG RangeOptimizer:37 - Exiting isValid() method of RangeValidator
+2018-03-18 07:53:11 DEBUG RangeOptimizer:34 - Entering optimizeRanges() method of RangeOptimizer
+2018-03-18 07:53:11 DEBUG RangeOptimizer:99 - Pushed new lower bound in tracking list43012
+2018-03-18 07:53:11 DEBUG RangeOptimizer:102 - Pushed new upper bound in tracking list45950
+2018-03-18 07:53:11 DEBUG RangeOptimizer:52 - Processing range:[44000,45000]
+2018-03-18 07:53:11 DEBUG RangeOptimizer:52 - Processing range:[45012,46934]
+2018-03-18 07:53:11 DEBUG RangeOptimizer:63 - Pushed new upper bound in tracking list46934
+2018-03-18 07:53:11 DEBUG RangeOptimizer:52 - Processing range:[45500,45590]
+2018-03-18 07:53:11 DEBUG RangeOptimizer:52 - Processing range:[45999,47900]
+2018-03-18 07:53:11 DEBUG RangeOptimizer:63 - Pushed new upper bound in tracking list47900
+2018-03-18 07:53:11 DEBUG RangeOptimizer:52 - Processing range:[49679,52015]
+2018-03-18 07:53:11 DEBUG RangeOptimizer:99 - Pushed new lower bound in tracking list49679
+2018-03-18 07:53:11 DEBUG RangeOptimizer:102 - Pushed new upper bound in tracking list52015
+2018-03-18 07:53:11 DEBUG RangeOptimizer:52 - Processing range:[49800,50000]
+2018-03-18 07:53:11 DEBUG RangeOptimizer:52 - Processing range:[51500,53479]
+2018-03-18 07:53:11 DEBUG RangeOptimizer:63 - Pushed new upper bound in tracking list53479
+2018-03-18 07:53:11 DEBUG RangeOptimizer:52 - Processing range:[54012,59607]
+2018-03-18 07:53:11 DEBUG RangeOptimizer:99 - Pushed new lower bound in tracking list54012
+2018-03-18 07:53:11 DEBUG RangeOptimizer:102 - Pushed new upper bound in tracking list59607
+2018-03-18 07:53:11 DEBUG RangeOptimizer:80 - Processing final set of range inside tracking list
+2018-03-18 07:53:11 DEBUG RangeOptimizer:84 - Exiting optimizeRanges() method of RangeOptimizer
+2018-03-18 07:53:15 DEBUG RangeOptimizer:32 - Entering isValid() method of RangeValidator
+2018-03-18 07:53:15 DEBUG RangeOptimizer:49 - Checking for Null or Empty
+2018-03-18 07:53:15 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800,50000], [51500,53479], [45012,46934], [54012,59607], [45500,45590], [45999,47900], [44000,45000], [43012,45950]]
+2018-03-18 07:53:15 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800,50000], [51500,53479], [45012,46934], [54012,59607], [45500,45590], [45999,47900], [44000,45000], [43012,45950]]
+2018-03-18 07:53:15 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800,50000], [51500,53479], [45012,46934], [54012,59607], [45500,45590], [45999,47900], [44000,45000], [43012,45950]]
+2018-03-18 07:53:15 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800,50000], [51500,53479], [45012,46934], [54012,59607], [45500,45590], [45999,47900], [44000,45000], [43012,45950]]
+2018-03-18 07:53:15 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800,50000], [51500,53479], [45012,46934], [54012,59607], [45500,45590], [45999,47900], [44000,45000], [43012,45950]]
+2018-03-18 07:53:15 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800,50000], [51500,53479], [45012,46934], [54012,59607], [45500,45590], [45999,47900], [44000,45000], [43012,45950]]
+2018-03-18 07:53:15 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800,50000], [51500,53479], [45012,46934], [54012,59607], [45500,45590], [45999,47900], [44000,45000], [43012,45950]]
+2018-03-18 07:53:15 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800,50000], [51500,53479], [45012,46934], [54012,59607], [45500,45590], [45999,47900], [44000,45000], [43012,45950]]
+2018-03-18 07:53:15 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800,50000], [51500,53479], [45012,46934], [54012,59607], [45500,45590], [45999,47900], [44000,45000], [43012,45950]]
+2018-03-18 07:53:15 DEBUG RangeOptimizer:37 - Exiting isValid() method of RangeValidator
+2018-03-18 07:53:15 DEBUG RangeOptimizer:34 - Entering optimizeRanges() method of RangeOptimizer
+2018-03-18 07:53:15 DEBUG RangeOptimizer:99 - Pushed new lower bound in tracking list43012
+2018-03-18 07:53:15 DEBUG RangeOptimizer:102 - Pushed new upper bound in tracking list45950
+2018-03-18 07:53:15 DEBUG RangeOptimizer:52 - Processing range:[44000,45000]
+2018-03-18 07:53:15 DEBUG RangeOptimizer:52 - Processing range:[45012,46934]
+2018-03-18 07:53:15 DEBUG RangeOptimizer:63 - Pushed new upper bound in tracking list46934
+2018-03-18 07:53:15 DEBUG RangeOptimizer:52 - Processing range:[45500,45590]
+2018-03-18 07:53:15 DEBUG RangeOptimizer:52 - Processing range:[45999,47900]
+2018-03-18 07:53:15 DEBUG RangeOptimizer:63 - Pushed new upper bound in tracking list47900
+2018-03-18 07:53:15 DEBUG RangeOptimizer:52 - Processing range:[49679,52015]
+2018-03-18 07:53:15 DEBUG RangeOptimizer:99 - Pushed new lower bound in tracking list49679
+2018-03-18 07:53:15 DEBUG RangeOptimizer:102 - Pushed new upper bound in tracking list52015
+2018-03-18 07:53:15 DEBUG RangeOptimizer:52 - Processing range:[49800,50000]
+2018-03-18 07:53:15 DEBUG RangeOptimizer:52 - Processing range:[51500,53479]
+2018-03-18 07:53:15 DEBUG RangeOptimizer:63 - Pushed new upper bound in tracking list53479
+2018-03-18 07:53:15 DEBUG RangeOptimizer:52 - Processing range:[54012,59607]
+2018-03-18 07:53:15 DEBUG RangeOptimizer:99 - Pushed new lower bound in tracking list54012
+2018-03-18 07:53:15 DEBUG RangeOptimizer:102 - Pushed new upper bound in tracking list59607
+2018-03-18 07:53:15 DEBUG RangeOptimizer:80 - Processing final set of range inside tracking list
+2018-03-18 07:53:15 DEBUG RangeOptimizer:84 - Exiting optimizeRanges() method of RangeOptimizer
+2018-03-18 08:09:48 DEBUG RangeOptimizer:32 - Entering isValid() method of RangeValidator
+2018-03-18 08:09:48 DEBUG RangeOptimizer:49 - Checking for Null or Empty
+2018-03-18 08:09:48 DEBUG RangeOptimizer:70 - Checking format for input range:[[]]
+2018-03-18 08:09:48 ERROR RangeOptimizer:74 - Validation failed. Invalid Format of input:[]
+2018-03-18 08:09:48 DEBUG RangeOptimizer:32 - Entering isValid() method of RangeValidator
+2018-03-18 08:09:48 DEBUG RangeOptimizer:49 - Checking for Null or Empty
+2018-03-18 08:09:48 DEBUG RangeOptimizer:70 - Checking format for input range:[[00345,1EE45]]
+2018-03-18 08:09:48 ERROR RangeOptimizer:74 - Validation failed. Invalid Format of input:[00345,1EE45]
+2018-03-18 08:09:48 DEBUG RangeOptimizer:32 - Entering isValid() method of RangeValidator
+2018-03-18 08:09:48 DEBUG RangeOptimizer:49 - Checking for Null or Empty
+2018-03-18 08:09:48 ERROR RangeOptimizer:54 - Validation failed. No input detected
+2018-03-18 08:09:48 DEBUG RangeOptimizer:32 - Entering isValid() method of RangeValidator
+2018-03-18 08:09:48 DEBUG RangeOptimizer:49 - Checking for Null or Empty
+2018-03-18 08:09:48 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800,50000], [51500,53479]]
+2018-03-18 08:09:48 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800,50000], [51500,53479]]
+2018-03-18 08:09:48 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800,50000], [51500,53479]]
+2018-03-18 08:09:48 DEBUG RangeOptimizer:37 - Exiting isValid() method of RangeValidator
+2018-03-18 08:09:48 DEBUG RangeOptimizer:32 - Entering isValid() method of RangeValidator
+2018-03-18 08:09:48 DEBUG RangeOptimizer:49 - Checking for Null or Empty
+2018-03-18 08:09:48 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800, 50000], [51500,53479]]
+2018-03-18 08:09:48 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800, 50000], [51500,53479]]
+2018-03-18 08:09:48 ERROR RangeOptimizer:74 - Validation failed. Invalid Format of input:[49800, 50000]
+2018-03-18 08:09:48 DEBUG RangeOptimizer:32 - Entering isValid() method of RangeValidator
+2018-03-18 08:09:48 DEBUG RangeOptimizer:49 - Checking for Null or Empty
+2018-03-18 08:09:48 DEBUG RangeOptimizer:70 - Checking format for input range:[[00$45,1E@45]]
+2018-03-18 08:09:48 ERROR RangeOptimizer:74 - Validation failed. Invalid Format of input:[00$45,1E@45]
+2018-03-18 08:09:48 DEBUG RangeOptimizer:32 - Entering isValid() method of RangeValidator
+2018-03-18 08:09:48 DEBUG RangeOptimizer:49 - Checking for Null or Empty
+2018-03-18 08:09:48 DEBUG RangeOptimizer:70 - Checking format for input range:[[00000, 12345]]
+2018-03-18 08:09:48 ERROR RangeOptimizer:74 - Validation failed. Invalid Format of input:[00000, 12345]
+2018-03-18 08:09:48 DEBUG RangeOptimizer:32 - Entering isValid() method of RangeValidator
+2018-03-18 08:09:48 DEBUG RangeOptimizer:49 - Checking for Null or Empty
+2018-03-18 08:09:48 DEBUG RangeOptimizer:70 - Checking format for input range:[[01234,12345]]
+2018-03-18 08:09:48 DEBUG RangeOptimizer:37 - Exiting isValid() method of RangeValidator
+2018-03-18 08:09:48 DEBUG RangeOptimizer:32 - Entering isValid() method of RangeValidator
+2018-03-18 08:09:48 DEBUG RangeOptimizer:49 - Checking for Null or Empty
+2018-03-18 08:09:48 DEBUG RangeOptimizer:70 - Checking format for input range:[{12345,34567}]
+2018-03-18 08:09:48 ERROR RangeOptimizer:74 - Validation failed. Invalid Format of input:{12345,34567}
+2018-03-18 08:09:48 DEBUG RangeOptimizer:32 - Entering isValid() method of RangeValidator
+2018-03-18 08:09:48 DEBUG RangeOptimizer:49 - Checking for Null or Empty
+2018-03-18 08:09:48 DEBUG RangeOptimizer:70 - Checking format for input range:[[000E4,12345]]
+2018-03-18 08:09:48 ERROR RangeOptimizer:74 - Validation failed. Invalid Format of input:[000E4,12345]
+2018-03-18 08:09:48 DEBUG RangeOptimizer:32 - Entering isValid() method of RangeValidator
+2018-03-18 08:09:48 DEBUG RangeOptimizer:49 - Checking for Null or Empty
+2018-03-18 08:09:48 DEBUG RangeOptimizer:70 - Checking format for input range:[[99999,88888]]
+2018-03-18 08:09:48 ERROR RangeOptimizer:95 - Validation failed. Upper bound is smaller than lower bound[99999,88888]
+2018-03-18 08:09:48 DEBUG RangeOptimizer:32 - Entering isValid() method of RangeValidator
+2018-03-18 08:09:48 DEBUG RangeOptimizer:49 - Checking for Null or Empty
+2018-03-18 08:09:48 DEBUG RangeOptimizer:70 - Checking format for input range:[[1234,12345]]
+2018-03-18 08:09:48 ERROR RangeOptimizer:74 - Validation failed. Invalid Format of input:[1234,12345]
+2018-03-18 08:10:17 DEBUG RangeOptimizer:32 - Entering isValid() method of RangeValidator
+2018-03-18 08:10:17 DEBUG RangeOptimizer:49 - Checking for Null or Empty
+2018-03-18 08:10:17 DEBUG RangeOptimizer:70 - Checking format for input range:[[]]
+2018-03-18 08:10:17 ERROR RangeOptimizer:74 - Validation failed. Invalid Format of input:[]
+2018-03-18 08:10:17 DEBUG RangeOptimizer:32 - Entering isValid() method of RangeValidator
+2018-03-18 08:10:17 DEBUG RangeOptimizer:49 - Checking for Null or Empty
+2018-03-18 08:10:17 DEBUG RangeOptimizer:70 - Checking format for input range:[[00345,1EE45]]
+2018-03-18 08:10:17 ERROR RangeOptimizer:74 - Validation failed. Invalid Format of input:[00345,1EE45]
+2018-03-18 08:10:17 DEBUG RangeOptimizer:32 - Entering isValid() method of RangeValidator
+2018-03-18 08:10:17 DEBUG RangeOptimizer:49 - Checking for Null or Empty
+2018-03-18 08:10:17 ERROR RangeOptimizer:54 - Validation failed. No input detected
+2018-03-18 08:10:17 DEBUG RangeOptimizer:32 - Entering isValid() method of RangeValidator
+2018-03-18 08:10:17 DEBUG RangeOptimizer:49 - Checking for Null or Empty
+2018-03-18 08:10:17 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800,50000], [51500,53479]]
+2018-03-18 08:10:17 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800,50000], [51500,53479]]
+2018-03-18 08:10:17 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800,50000], [51500,53479]]
+2018-03-18 08:10:17 DEBUG RangeOptimizer:37 - Exiting isValid() method of RangeValidator
+2018-03-18 08:10:17 DEBUG RangeOptimizer:32 - Entering isValid() method of RangeValidator
+2018-03-18 08:10:17 DEBUG RangeOptimizer:49 - Checking for Null or Empty
+2018-03-18 08:10:17 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800, 50000], [51500,53479]]
+2018-03-18 08:10:17 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800, 50000], [51500,53479]]
+2018-03-18 08:10:17 ERROR RangeOptimizer:74 - Validation failed. Invalid Format of input:[49800, 50000]
+2018-03-18 08:10:17 DEBUG RangeOptimizer:32 - Entering isValid() method of RangeValidator
+2018-03-18 08:10:17 DEBUG RangeOptimizer:49 - Checking for Null or Empty
+2018-03-18 08:10:17 DEBUG RangeOptimizer:70 - Checking format for input range:[[00$45,1E@45]]
+2018-03-18 08:10:17 ERROR RangeOptimizer:74 - Validation failed. Invalid Format of input:[00$45,1E@45]
+2018-03-18 08:10:17 DEBUG RangeOptimizer:32 - Entering isValid() method of RangeValidator
+2018-03-18 08:10:17 DEBUG RangeOptimizer:49 - Checking for Null or Empty
+2018-03-18 08:10:17 DEBUG RangeOptimizer:70 - Checking format for input range:[[00000, 12345]]
+2018-03-18 08:10:17 ERROR RangeOptimizer:74 - Validation failed. Invalid Format of input:[00000, 12345]
+2018-03-18 08:10:17 DEBUG RangeOptimizer:32 - Entering isValid() method of RangeValidator
+2018-03-18 08:10:17 DEBUG RangeOptimizer:49 - Checking for Null or Empty
+2018-03-18 08:10:17 DEBUG RangeOptimizer:70 - Checking format for input range:[[01234,12345]]
+2018-03-18 08:10:17 DEBUG RangeOptimizer:37 - Exiting isValid() method of RangeValidator
+2018-03-18 08:10:17 DEBUG RangeOptimizer:32 - Entering isValid() method of RangeValidator
+2018-03-18 08:10:17 DEBUG RangeOptimizer:49 - Checking for Null or Empty
+2018-03-18 08:10:17 DEBUG RangeOptimizer:70 - Checking format for input range:[{12345,34567}]
+2018-03-18 08:10:17 ERROR RangeOptimizer:74 - Validation failed. Invalid Format of input:{12345,34567}
+2018-03-18 08:10:17 DEBUG RangeOptimizer:32 - Entering isValid() method of RangeValidator
+2018-03-18 08:10:17 DEBUG RangeOptimizer:49 - Checking for Null or Empty
+2018-03-18 08:10:17 DEBUG RangeOptimizer:70 - Checking format for input range:[[000E4,12345]]
+2018-03-18 08:10:17 ERROR RangeOptimizer:74 - Validation failed. Invalid Format of input:[000E4,12345]
+2018-03-18 08:10:17 DEBUG RangeOptimizer:32 - Entering isValid() method of RangeValidator
+2018-03-18 08:10:17 DEBUG RangeOptimizer:49 - Checking for Null or Empty
+2018-03-18 08:10:17 DEBUG RangeOptimizer:70 - Checking format for input range:[[99999,88888]]
+2018-03-18 08:10:17 ERROR RangeOptimizer:95 - Validation failed. Upper bound is smaller than lower bound[99999,88888]
+2018-03-18 08:10:17 DEBUG RangeOptimizer:32 - Entering isValid() method of RangeValidator
+2018-03-18 08:10:17 DEBUG RangeOptimizer:49 - Checking for Null or Empty
+2018-03-18 08:10:17 DEBUG RangeOptimizer:70 - Checking format for input range:[[1234,12345]]
+2018-03-18 08:10:17 ERROR RangeOptimizer:74 - Validation failed. Invalid Format of input:[1234,12345]
+2018-03-18 08:26:27 DEBUG RangeOptimizer:34 - Entering optimizeRanges() method of RangeOptimizer
+2018-03-18 08:26:27 DEBUG RangeOptimizer:99 - Pushed new lower bound in tracking list20001
+2018-03-18 08:26:27 DEBUG RangeOptimizer:102 - Pushed new upper bound in tracking list25000
+2018-03-18 08:26:27 DEBUG RangeOptimizer:52 - Processing range:[26000,27673]
+2018-03-18 08:26:27 DEBUG RangeOptimizer:99 - Pushed new lower bound in tracking list26000
+2018-03-18 08:26:27 DEBUG RangeOptimizer:102 - Pushed new upper bound in tracking list27673
+2018-03-18 08:26:27 DEBUG RangeOptimizer:52 - Processing range:[30000,34562]
+2018-03-18 08:26:27 DEBUG RangeOptimizer:99 - Pushed new lower bound in tracking list30000
+2018-03-18 08:26:27 DEBUG RangeOptimizer:102 - Pushed new upper bound in tracking list34562
+2018-03-18 08:26:27 DEBUG RangeOptimizer:52 - Processing range:[45234,65498]
+2018-03-18 08:26:27 DEBUG RangeOptimizer:99 - Pushed new lower bound in tracking list45234
+2018-03-18 08:26:27 DEBUG RangeOptimizer:102 - Pushed new upper bound in tracking list65498
+2018-03-18 08:26:27 DEBUG RangeOptimizer:80 - Processing final set of range inside tracking list
+2018-03-18 08:26:27 DEBUG RangeOptimizer:84 - Exiting optimizeRanges() method of RangeOptimizer
+2018-03-18 08:26:27 DEBUG RangeOptimizer:34 - Entering optimizeRanges() method of RangeOptimizer
+2018-03-18 08:26:27 DEBUG RangeOptimizer:99 - Pushed new lower bound in tracking list20001
+2018-03-18 08:26:27 DEBUG RangeOptimizer:102 - Pushed new upper bound in tracking list25000
+2018-03-18 08:26:27 DEBUG RangeOptimizer:52 - Processing range:[24000,25673]
+2018-03-18 08:26:27 DEBUG RangeOptimizer:63 - Pushed new upper bound in tracking list25673
+2018-03-18 08:26:27 DEBUG RangeOptimizer:52 - Processing range:[30000,34562]
+2018-03-18 08:26:27 DEBUG RangeOptimizer:99 - Pushed new lower bound in tracking list30000
+2018-03-18 08:26:27 DEBUG RangeOptimizer:102 - Pushed new upper bound in tracking list34562
+2018-03-18 08:26:27 DEBUG RangeOptimizer:52 - Processing range:[45234,65498]
+2018-03-18 08:26:27 DEBUG RangeOptimizer:99 - Pushed new lower bound in tracking list45234
+2018-03-18 08:26:27 DEBUG RangeOptimizer:102 - Pushed new upper bound in tracking list65498
+2018-03-18 08:26:27 DEBUG RangeOptimizer:80 - Processing final set of range inside tracking list
+2018-03-18 08:26:27 DEBUG RangeOptimizer:84 - Exiting optimizeRanges() method of RangeOptimizer
+2018-03-18 08:27:52 DEBUG RangeOptimizer:34 - Entering optimizeRanges() method of RangeOptimizer
+2018-03-18 08:27:52 DEBUG RangeOptimizer:99 - Pushed new lower bound in tracking list20001
+2018-03-18 08:27:52 DEBUG RangeOptimizer:102 - Pushed new upper bound in tracking list25000
+2018-03-18 08:27:52 DEBUG RangeOptimizer:52 - Processing range:[26000,27673]
+2018-03-18 08:27:52 DEBUG RangeOptimizer:99 - Pushed new lower bound in tracking list26000
+2018-03-18 08:27:52 DEBUG RangeOptimizer:102 - Pushed new upper bound in tracking list27673
+2018-03-18 08:27:52 DEBUG RangeOptimizer:52 - Processing range:[30000,34562]
+2018-03-18 08:27:52 DEBUG RangeOptimizer:99 - Pushed new lower bound in tracking list30000
+2018-03-18 08:27:52 DEBUG RangeOptimizer:102 - Pushed new upper bound in tracking list34562
+2018-03-18 08:27:52 DEBUG RangeOptimizer:52 - Processing range:[45234,65498]
+2018-03-18 08:27:52 DEBUG RangeOptimizer:99 - Pushed new lower bound in tracking list45234
+2018-03-18 08:27:52 DEBUG RangeOptimizer:102 - Pushed new upper bound in tracking list65498
+2018-03-18 08:27:52 DEBUG RangeOptimizer:80 - Processing final set of range inside tracking list
+2018-03-18 08:27:52 DEBUG RangeOptimizer:84 - Exiting optimizeRanges() method of RangeOptimizer
+2018-03-18 08:27:52 DEBUG RangeOptimizer:34 - Entering optimizeRanges() method of RangeOptimizer
+2018-03-18 08:27:52 DEBUG RangeOptimizer:99 - Pushed new lower bound in tracking list20001
+2018-03-18 08:27:52 DEBUG RangeOptimizer:102 - Pushed new upper bound in tracking list25000
+2018-03-18 08:27:52 DEBUG RangeOptimizer:52 - Processing range:[24000,25673]
+2018-03-18 08:27:52 DEBUG RangeOptimizer:63 - Pushed new upper bound in tracking list25673
+2018-03-18 08:27:52 DEBUG RangeOptimizer:52 - Processing range:[30000,34562]
+2018-03-18 08:27:52 DEBUG RangeOptimizer:99 - Pushed new lower bound in tracking list30000
+2018-03-18 08:27:52 DEBUG RangeOptimizer:102 - Pushed new upper bound in tracking list34562
+2018-03-18 08:27:52 DEBUG RangeOptimizer:52 - Processing range:[45234,65498]
+2018-03-18 08:27:52 DEBUG RangeOptimizer:99 - Pushed new lower bound in tracking list45234
+2018-03-18 08:27:52 DEBUG RangeOptimizer:102 - Pushed new upper bound in tracking list65498
+2018-03-18 08:27:52 DEBUG RangeOptimizer:80 - Processing final set of range inside tracking list
+2018-03-18 08:27:52 DEBUG RangeOptimizer:84 - Exiting optimizeRanges() method of RangeOptimizer
+2018-03-18 08:27:52 DEBUG RangeOptimizer:32 - Entering isValid() method of RangeValidator
+2018-03-18 08:27:52 DEBUG RangeOptimizer:49 - Checking for Null or Empty
+2018-03-18 08:27:52 DEBUG RangeOptimizer:70 - Checking format for input range:[[]]
+2018-03-18 08:27:52 ERROR RangeOptimizer:74 - Validation failed. Invalid Format of input:[]
+2018-03-18 08:27:52 DEBUG RangeOptimizer:32 - Entering isValid() method of RangeValidator
+2018-03-18 08:27:52 DEBUG RangeOptimizer:49 - Checking for Null or Empty
+2018-03-18 08:27:52 DEBUG RangeOptimizer:70 - Checking format for input range:[[00345,1EE45]]
+2018-03-18 08:27:52 ERROR RangeOptimizer:74 - Validation failed. Invalid Format of input:[00345,1EE45]
+2018-03-18 08:27:52 DEBUG RangeOptimizer:32 - Entering isValid() method of RangeValidator
+2018-03-18 08:27:52 DEBUG RangeOptimizer:49 - Checking for Null or Empty
+2018-03-18 08:27:52 ERROR RangeOptimizer:54 - Validation failed. No input detected
+2018-03-18 08:27:52 DEBUG RangeOptimizer:32 - Entering isValid() method of RangeValidator
+2018-03-18 08:27:52 DEBUG RangeOptimizer:49 - Checking for Null or Empty
+2018-03-18 08:27:52 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800,50000], [51500,53479]]
+2018-03-18 08:27:52 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800,50000], [51500,53479]]
+2018-03-18 08:27:52 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800,50000], [51500,53479]]
+2018-03-18 08:27:52 DEBUG RangeOptimizer:37 - Exiting isValid() method of RangeValidator
+2018-03-18 08:27:52 DEBUG RangeOptimizer:32 - Entering isValid() method of RangeValidator
+2018-03-18 08:27:52 DEBUG RangeOptimizer:49 - Checking for Null or Empty
+2018-03-18 08:27:52 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800, 50000], [51500,53479]]
+2018-03-18 08:27:52 DEBUG RangeOptimizer:70 - Checking format for input range:[[49679,52015], [49800, 50000], [51500,53479]]
+2018-03-18 08:27:52 ERROR RangeOptimizer:74 - Validation failed. Invalid Format of input:[49800, 50000]
+2018-03-18 08:27:52 DEBUG RangeOptimizer:32 - Entering isValid() method of RangeValidator
+2018-03-18 08:27:52 DEBUG RangeOptimizer:49 - Checking for Null or Empty
+2018-03-18 08:27:52 DEBUG RangeOptimizer:70 - Checking format for input range:[[00$45,1E@45]]
+2018-03-18 08:27:52 ERROR RangeOptimizer:74 - Validation failed. Invalid Format of input:[00$45,1E@45]
+2018-03-18 08:27:52 DEBUG RangeOptimizer:32 - Entering isValid() method of RangeValidator
+2018-03-18 08:27:52 DEBUG RangeOptimizer:49 - Checking for Null or Empty
+2018-03-18 08:27:52 DEBUG RangeOptimizer:70 - Checking format for input range:[[00000, 12345]]
+2018-03-18 08:27:52 ERROR RangeOptimizer:74 - Validation failed. Invalid Format of input:[00000, 12345]
+2018-03-18 08:27:52 DEBUG RangeOptimizer:32 - Entering isValid() method of RangeValidator
+2018-03-18 08:27:52 DEBUG RangeOptimizer:49 - Checking for Null or Empty
+2018-03-18 08:27:52 DEBUG RangeOptimizer:70 - Checking format for input range:[[01234,12345]]
+2018-03-18 08:27:52 DEBUG RangeOptimizer:37 - Exiting isValid() method of RangeValidator
+2018-03-18 08:27:52 DEBUG RangeOptimizer:32 - Entering isValid() method of RangeValidator
+2018-03-18 08:27:52 DEBUG RangeOptimizer:49 - Checking for Null or Empty
+2018-03-18 08:27:52 DEBUG RangeOptimizer:70 - Checking format for input range:[{12345,34567}]
+2018-03-18 08:27:52 ERROR RangeOptimizer:74 - Validation failed. Invalid Format of input:{12345,34567}
+2018-03-18 08:27:52 DEBUG RangeOptimizer:32 - Entering isValid() method of RangeValidator
+2018-03-18 08:27:52 DEBUG RangeOptimizer:49 - Checking for Null or Empty
+2018-03-18 08:27:52 DEBUG RangeOptimizer:70 - Checking format for input range:[[000E4,12345]]
+2018-03-18 08:27:52 ERROR RangeOptimizer:74 - Validation failed. Invalid Format of input:[000E4,12345]
+2018-03-18 08:27:52 DEBUG RangeOptimizer:32 - Entering isValid() method of RangeValidator
+2018-03-18 08:27:52 DEBUG RangeOptimizer:49 - Checking for Null or Empty
+2018-03-18 08:27:52 DEBUG RangeOptimizer:70 - Checking format for input range:[[99999,88888]]
+2018-03-18 08:27:52 ERROR RangeOptimizer:95 - Validation failed. Upper bound is smaller than lower bound[99999,88888]
+2018-03-18 08:27:52 DEBUG RangeOptimizer:32 - Entering isValid() method of RangeValidator
+2018-03-18 08:27:52 DEBUG RangeOptimizer:49 - Checking for Null or Empty
+2018-03-18 08:27:52 DEBUG RangeOptimizer:70 - Checking format for input range:[[1234,12345]]
+2018-03-18 08:27:52 ERROR RangeOptimizer:74 - Validation failed. Invalid Format of input:[1234,12345]
