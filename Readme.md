@@ -7,7 +7,7 @@ restrictions as the input.
 
 
 # Motivation
-This algorithm was written as a part of coding challenge assignment for William Sonoma
+This algorithm was written as a part of coding challenge assignment
 
 # What does it do?
 
